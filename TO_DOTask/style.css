@@ -1,0 +1,90 @@
+body{
+  font-size: 20px;
+  background: #ADD8E6;
+}
+
+.heading{
+  width: 50%;
+  margin: 30px auto;
+  text-align: center;
+  color: #2F4F4F;
+  background: #FFFFF0;
+  border: 2px solid #F08080;
+  border-radius: 20px;
+}
+
+form{
+  width: 50%;
+  margin: 30px auto;
+  border-radius: 5px;
+  padding: 10px;
+  background: #FFFFF0;
+  border: 2px solid #F08080;
+  border-radius: 20px;
+}
+
+form p{
+  color: red;
+  margin: 0px;
+}
+
+.list_input{
+  width: 73%;
+  height: 15px;
+  padding: 10px;
+  border: 2px solid #F08080;
+}
+
+.list_btn{
+  height: 40px;
+  background: #FFFFF0;
+  color: #708090;
+  border: 2px solid #F08080;
+  border-radius: 5px;
+  padding: 5px 20px;
+}
+
+table{
+  width: 50%;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+tr{
+  border-bottom: 1px solid #20B2AA;
+}
+
+td{
+  text-align: center;
+}
+
+th{
+  font-size: 19px;
+  color: #6B8E23;
+}
+
+th, td{
+  border: none;
+  height: 30px;
+  padding: 2px;
+}
+
+th:hover{
+  background: #E9E9E9;
+}
+
+.listTask{
+  text-align: center;
+}
+
+.delete{
+  text-align: center;
+}
+
+.delete a{
+  color: White;
+  background: #F08080;
+  padding: 1px 6px;
+  border-radius: 3px;
+  text-decoration: none;
+}
